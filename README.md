@@ -4,7 +4,7 @@ Morphe Builds Beta (Rooted)
 
 Morphe is a variant of the Revanced Original focused on maintaining ad removal features while adding greater support for current versions of YouTube and YouTube Music.
 
-Get the [latest Morphe Beta Rooted release](https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/releases/tag/20260401)
+Get the [latest Morphe Beta Rooted release](https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/releases/tag/20260402)
 
 ## If you are having trouble with the classic mount method of the modules
 such as,
