@@ -1,6 +1,6 @@
 {
-  "version": "v21.32.2 (patches 1.39.0-dev.10.mpp)",
-  "versionCode": 20260553,
-  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/releases/download/20260553/YouTube_Amoled_arm64.zip",
+  "version": "v21.32.3-SECONDARY (patches 1.39.0.mpp)",
+  "versionCode": 20260560,
+  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/releases/download/20260560/YouTube_Amoled_arm64.zip",
   "changelog": "https://raw.githubusercontent.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/refs/heads/main/build2.md"
 }
