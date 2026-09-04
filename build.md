@@ -1,5 +1,4 @@
-YT Music arm32: v9.34.52
-YT Music arm64: v9.34.53
+YT Music: v9.35.54
 
-Patches: MorpheApp/patches 1.41.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.41.0)
+Patches: MorpheApp/patches 1.42.0-dev.2mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.42.0-dev.2)
