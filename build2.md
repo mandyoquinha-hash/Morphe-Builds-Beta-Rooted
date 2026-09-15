@@ -1,4 +1,4 @@
-YouTube: v21.36.47
+YouTube: v21.37.42
 
 Patches: MorpheApp/MorphePatches 1.43.0.mpp
 [Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.43.0)
