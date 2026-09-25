@@ -1,4 +1,4 @@
 YouTube: v21.38.130
 
-Patches: MorpheApp/MorphePatches 1.45.0-dev.14.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.45.0-dev.14)
+Patches: MorpheApp/MorphePatches 1.45.0-dev.15.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.45.0-dev.15)
