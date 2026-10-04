@@ -1,5 +1,4 @@
-YouTube arm32: v21.39.522
-YouTube arm64: v21.39.523
+YouTube: v21.40.161
 
-Patches: MorpheApp/MorphePatches 1.46.0-dev.1.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.46.0-dev.1)
+Patches: MorpheApp/MorphePatches 1.46.0-dev.3.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v1.46.0-dev.3)
