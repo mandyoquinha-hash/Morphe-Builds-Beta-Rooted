@@ -1,4 +1,4 @@
 YT Music: v9.43.51
 
-Patches: MorpheApp/patches 1.49.0-dev.11.mpp
-[Changelog](https://github.com/MorpheAppmorphe-patches/releases/v1.49.0-dev.11)
+Patches: MorpheApp/patches 2.0.0-dev.1.mpp
+[Changelog](https://github.com/MorpheAppmorphe-patches/releases/v2.0.0-dev.1)
