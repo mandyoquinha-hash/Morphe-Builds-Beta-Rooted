@@ -1,4 +1,4 @@
-YouTube: v21.44.534-EXTENDED
+YouTube: v21.45.82-BETA
 
-Patches: MorpheApp/MorphePatches 2.1.0.mpp
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v2.1.0)
+Patches: MorpheApp/MorphePatches 2.2.0-dev.1.mpp
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/v2.2.0-dev.1)
