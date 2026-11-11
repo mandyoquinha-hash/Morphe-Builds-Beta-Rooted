@@ -1,6 +1,6 @@
 {
-  "version": "v9.45.51 (patches 2.2.0.mpp)",
-  "versionCode": 20260750,
-  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/releases/download/20260750/YouTubeMusic_Arm32.zip",
+  "version": "v9.45.51 (patches 2.3.0-dev.1.mpp)",
+  "versionCode": 20260751,
+  "zipUrl": "https://github.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/releases/download/20260751/YouTubeMusic_Arm32.zip",
   "changelog": "https://raw.githubusercontent.com/mandyoquinha-hash/Morphe-Builds-Beta-Rooted/refs/heads/main/build.md"
 }
