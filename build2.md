@@ -1,4 +1,4 @@
-YouTube: v21.45.82
+YouTube: v21.46.520-BETA
 Google Photos: v8.1.0.1016919706
 
 Patches: MorpheApp/MorphePatches 2.3.0-dev.2.mpp
